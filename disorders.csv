@@ -1,0 +1,219 @@
+﻿icd_code,icd_version,name,type
+29013,9,Presenile dementia with depressive features,Depression
+29021,9,Senile dementia with depressive features,Depression
+29043,9,"Vascular dementia, with depressed mood",Depression
+29620,9,"Major depressive affective disorder, single episode, unspecified",Depression
+29621,9,"Major depressive affective disorder, single episode, mild",Depression
+29622,9,"Major depressive affective disorder, single episode, moderate",Depression
+29623,9,"Major depressive affective disorder, single episode, severe, without mention of psychotic behavior",Depression
+29624,9,"Major depressive affective disorder, single episode, severe, specified as with psychotic behavior",Depression
+29625,9,"Major depressive affective disorder, single episode, in partial or unspecified remission",Depression
+29626,9,"Major depressive affective disorder, single episode, in full remission",Depression
+29630,9,"Major depressive affective disorder, recurrent episode, unspecified",Depression
+29631,9,"Major depressive affective disorder, recurrent episode, mild",Depression
+29632,9,"Major depressive affective disorder, recurrent episode, moderate",Depression
+29633,9,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",Depression
+29634,9,"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior",Depression
+29635,9,"Major depressive affective disorder, recurrent episode, in partial or unspecified remission",Depression
+29636,9,"Major depressive affective disorder, recurrent episode, in full remission",Depression
+29650,9,"Bipolar I disorder, most recent episode (or current) depressed, unspecified",Depression
+29651,9,"Bipolar I disorder, most recent episode (or current) depressed, mild",Depression
+29652,9,"Bipolar I disorder, most recent episode (or current) depressed, moderate",Depression
+29653,9,"Bipolar I disorder, most recent episode (or current) depressed, severe, without mention of psychotic behavior",Depression
+29654,9,"Bipolar I disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior",Depression
+29655,9,"Bipolar I disorder, most recent episode (or current) depressed, in partial or unspecified remission",Depression
+29656,9,"Bipolar I disorder, most recent episode (or current) depressed, in full remission",Depression
+29682,9,Atypical depressive disorder,Depression
+2980,9,Depressive type psychosis,Depression
+30112,9,Chronic depressive personality disorder,Depression
+3090,9,Adjustment disorder with depressed mood,Depression
+3091,9,Prolonged depressive reaction,Depression
+30928,9,Adjustment disorder with mixed anxiety and depressed mood,Depression
+311,9,"Depressive disorder, not elsewhere classified",Depression
+E9287,9,"Environmental and accidental causes, mechanism or component of firearm and air gun",Depression
+F0631,10,Mood disorder due to known physiological condition with depressive features,Depression
+F0632,10,Mood disorder due to known physiological condition with major depressive-like episode,Depression
+F251,10,"Schizoaffective disorder, depressive type",Depression
+F313,10,"Bipolar disorder, current episode depressed, mild or moderate severity",Depression
+F3130,10,"Bipolar disorder, current episode depressed, mild or moderate severity, unspecified",Depression
+F3131,10,"Bipolar disorder, current episode depressed, mild",Depression
+F3132,10,"Bipolar disorder, current episode depressed, moderate",Depression
+F314,10,"Bipolar disorder, current episode depressed, severe, without psychotic features",Depression
+F315,10,"Bipolar disorder, current episode depressed, severe, with psychotic features",Depression
+F3175,10,"Bipolar disorder, in partial remission, most recent episode depressed",Depression
+F3176,10,"Bipolar disorder, in full remission, most recent episode depressed",Depression
+F32,10,"Major depressive disorder, single episode",Depression
+F320,10,"Major depressive disorder, single episode, mild",Depression
+F321,10,"Major depressive disorder, single episode, moderate",Depression
+F322,10,"Major depressive disorder, single episode, severe without psychotic features",Depression
+F323,10,"Major depressive disorder, single episode, severe with psychotic features",Depression
+F324,10,"Major depressive disorder, single episode, in partial remission",Depression
+F325,10,"Major depressive disorder, single episode, in full remission",Depression
+F328,10,Other depressive episodes,Depression
+F3289,10,Other specified depressive episodes,Depression
+F329,10,"Major depressive disorder, single episode, unspecified",Depression
+F33,10,"Major depressive disorder, recurrent",Depression
+F330,10,"Major depressive disorder, recurrent, mild",Depression
+F331,10,"Major depressive disorder, recurrent, moderate",Depression
+F332,10,"Major depressive disorder, recurrent severe without psychotic features",Depression
+F333,10,"Major depressive disorder, recurrent, severe with psychotic symptoms",Depression
+F334,10,"Major depressive disorder, recurrent, in remission",Depression
+F3340,10,"Major depressive disorder, recurrent, in remission, unspecified",Depression
+F3341,10,"Major depressive disorder, recurrent, in partial remission",Depression
+F3342,10,"Major depressive disorder, recurrent, in full remission",Depression
+F338,10,Other recurrent depressive disorders,Depression
+F339,10,"Major depressive disorder, recurrent, unspecified",Depression
+F4321,10,Adjustment disorder with depressed mood,Depression
+F4323,10,Adjustment disorder with mixed anxiety and depressed mood,Depression
+F530,10,Postpartum depression,Depression
+29384,9,Anxiety disorder in conditions classified elsewhere,Other Mental
+29500,9,"Simple type schizophrenia, unspecified",Other Mental
+29501,9,"Simple type schizophrenia, subchronic",Other Mental
+29502,9,"Simple type schizophrenia, chronic",Other Mental
+29503,9,"Simple type schizophrenia, subchronic with acute exacerbation",Other Mental
+29504,9,"Simple type schizophrenia, chronic with acute exacerbation",Other Mental
+29505,9,"Simple type schizophrenia, in remission",Other Mental
+29510,9,"Disorganized type schizophrenia, unspecified",Other Mental
+29511,9,"Disorganized type schizophrenia, subchronic",Other Mental
+29512,9,"Disorganized type schizophrenia, chronic",Other Mental
+29513,9,"Disorganized type schizophrenia, subchronic with acute exacerbation",Other Mental
+29514,9,"Disorganized type schizophrenia, chronic with acute exacerbation",Other Mental
+29515,9,"Disorganized type schizophrenia, in remission",Other Mental
+29520,9,"Catatonic type schizophrenia, unspecified",Other Mental
+29521,9,"Catatonic type schizophrenia, subchronic",Other Mental
+29522,9,"Catatonic type schizophrenia, chronic",Other Mental
+29523,9,"Catatonic type schizophrenia, subchronic with acute exacerbation",Other Mental
+29524,9,"Catatonic type schizophrenia, chronic with acute exacerbation",Other Mental
+29525,9,"Catatonic type schizophrenia, in remission",Other Mental
+29530,9,"Paranoid type schizophrenia, unspecified",Other Mental
+29531,9,"Paranoid type schizophrenia, subchronic",Other Mental
+29532,9,"Paranoid type schizophrenia, chronic",Other Mental
+29533,9,"Paranoid type schizophrenia, subchronic with acute exacerbation",Other Mental
+29534,9,"Paranoid type schizophrenia, chronic with acute exacerbation",Other Mental
+29535,9,"Paranoid type schizophrenia, in remission",Other Mental
+29550,9,"Latent schizophrenia, unspecified",Other Mental
+29551,9,"Latent schizophrenia, subchronic",Other Mental
+29552,9,"Latent schizophrenia, chronic",Other Mental
+29553,9,"Latent schizophrenia, subchronic with acute exacerbation",Other Mental
+29554,9,"Latent schizophrenia, chronic with acute exacerbation",Other Mental
+29555,9,"Latent schizophrenia, in remission",Other Mental
+29580,9,"Other specified types of schizophrenia, unspecified",Other Mental
+29581,9,"Other specified types of schizophrenia, subchronic",Other Mental
+29582,9,"Other specified types of schizophrenia, chronic",Other Mental
+29583,9,"Other specified types of schizophrenia, subchronic with acute exacerbation",Other Mental
+29584,9,"Other specified types of schizophrenia, chronic with acute exacerbation",Other Mental
+29585,9,"Other specified types of schizophrenia, in remission",Other Mental
+29590,9,"Unspecified schizophrenia, unspecified",Other Mental
+29591,9,"Unspecified schizophrenia, subchronic",Other Mental
+29592,9,"Unspecified schizophrenia, chronic",Other Mental
+29593,9,"Unspecified schizophrenia, subchronic with acute exacerbation",Other Mental
+29594,9,"Unspecified schizophrenia, chronic with acute exacerbation",Other Mental
+29595,9,"Unspecified schizophrenia, in remission",Other Mental
+29600,9,"Bipolar I disorder, single manic episode, unspecified",Other Mental
+29601,9,"Bipolar I disorder, single manic episode, mild",Other Mental
+29602,9,"Bipolar I disorder, single manic episode, moderate",Other Mental
+29603,9,"Bipolar I disorder, single manic episode, severe, without mention of psychotic behavior",Other Mental
+29604,9,"Bipolar I disorder, single manic episode, severe, specified as with psychotic behavior",Other Mental
+29605,9,"Bipolar I disorder, single manic episode, in partial or unspecified remission",Other Mental
+29606,9,"Bipolar I disorder, single manic episode, in full remission",Other Mental
+29640,9,"Bipolar I disorder, most recent episode (or current) manic, unspecified",Other Mental
+29641,9,"Bipolar I disorder, most recent episode (or current) manic, mild",Other Mental
+29642,9,"Bipolar I disorder, most recent episode (or current) manic, moderate",Other Mental
+29643,9,"Bipolar I disorder, most recent episode (or current) manic, severe, without mention of psychotic behavior",Other Mental
+29644,9,"Bipolar I disorder, most recent episode (or current) manic, severe, specified as with psychotic behavior",Other Mental
+29645,9,"Bipolar I disorder, most recent episode (or current) manic, in partial or unspecified remission",Other Mental
+29646,9,"Bipolar I disorder, most recent episode (or current) manic, in full remission",Other Mental
+29660,9,"Bipolar I disorder, most recent episode (or current) mixed, unspecified",Other Mental
+29661,9,"Bipolar I disorder, most recent episode (or current) mixed, mild",Other Mental
+29662,9,"Bipolar I disorder, most recent episode (or current) mixed, moderate",Other Mental
+29663,9,"Bipolar I disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior",Other Mental
+29664,9,"Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior",Other Mental
+29665,9,"Bipolar I disorder, most recent episode (or current) mixed, in partial or unspecified remission",Other Mental
+29666,9,"Bipolar I disorder, most recent episode (or current) mixed, in full remission",Other Mental
+2967,9,"Bipolar I disorder, most recent episode (or current) unspecified",Other Mental
+29680,9,"Bipolar disorder, unspecified",Other Mental
+29689,9,Other bipolar disorders,Other Mental
+30000,9,"Anxiety state, unspecified",Other Mental
+30002,9,Generalized anxiety disorder,Other Mental
+30009,9,Other anxiety states,Other Mental
+30921,9,Separation anxiety disorder,Other Mental
+30924,9,Adjustment disorder with anxiety,Other Mental
+E9287,9,"Environmental and accidental causes, mechanism or component of firearm and air gun",Other Mental
+F064,10,Anxiety disorder due to known physiological condition,Other Mental
+F10180,10,Alcohol abuse with alcohol-induced anxiety disorder,Other Mental
+F10280,10,Alcohol dependence with alcohol-induced anxiety disorder,Other Mental
+F10980,10,"Alcohol use, unspecified with alcohol-induced anxiety disorder",Other Mental
+F12180,10,Cannabis abuse with cannabis-induced anxiety disorder,Other Mental
+F12280,10,Cannabis dependence with cannabis-induced anxiety disorder,Other Mental
+F12980,10,"Cannabis use, unspecified with anxiety disorder",Other Mental
+F13180,10,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder",Other Mental
+F13280,10,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder",Other Mental
+F13980,10,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder",Other Mental
+F14180,10,Cocaine abuse with cocaine-induced anxiety disorder,Other Mental
+F14280,10,Cocaine dependence with cocaine-induced anxiety disorder,Other Mental
+F14980,10,"Cocaine use, unspecified with cocaine-induced anxiety disorder",Other Mental
+F15180,10,Other stimulant abuse with stimulant-induced anxiety disorder,Other Mental
+F15280,10,Other stimulant dependence with stimulant-induced anxiety disorder,Other Mental
+F15980,10,"Other stimulant use, unspecified with stimulant-induced anxiety disorder",Other Mental
+F16180,10,Hallucinogen abuse with hallucinogen-induced anxiety disorder,Other Mental
+F16280,10,Hallucinogen dependence with hallucinogen-induced anxiety disorder,Other Mental
+F16980,10,"Hallucinogen use, unspecified with hallucinogen-induced anxiety disorder",Other Mental
+F18180,10,Inhalant abuse with inhalant-induced anxiety disorder,Other Mental
+F18280,10,Inhalant dependence with inhalant-induced anxiety disorder,Other Mental
+F18980,10,"Inhalant use, unspecified with inhalant-induced anxiety disorder",Other Mental
+F19180,10,Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder,Other Mental
+F19280,10,Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder,Other Mental
+F19980,10,"Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder",Other Mental
+F20,10,Schizophrenia,Other Mental
+F200,10,Paranoid schizophrenia,Other Mental
+F201,10,Disorganized schizophrenia,Other Mental
+F202,10,Catatonic schizophrenia,Other Mental
+F203,10,Undifferentiated schizophrenia,Other Mental
+F205,10,Residual schizophrenia,Other Mental
+F208,10,Other schizophrenia,Other Mental
+F2089,10,Other schizophrenia,Other Mental
+F209,10,"Schizophrenia, unspecified",Other Mental
+F250,10,"Schizoaffective disorder, bipolar type",Other Mental
+F31,10,Bipolar disorder,Other Mental
+F310,10,"Bipolar disorder, current episode hypomanic",Other Mental
+F311,10,"Bipolar disorder, current episode manic without psychotic features",Other Mental
+F3110,10,"Bipolar disorder, current episode manic without psychotic features, unspecified",Other Mental
+F3111,10,"Bipolar disorder, current episode manic without psychotic features, mild",Other Mental
+F3112,10,"Bipolar disorder, current episode manic without psychotic features, moderate",Other Mental
+F3113,10,"Bipolar disorder, current episode manic without psychotic features, severe",Other Mental
+F312,10,"Bipolar disorder, current episode manic severe with psychotic features",Other Mental
+F316,10,"Bipolar disorder, current episode mixed",Other Mental
+F3160,10,"Bipolar disorder, current episode mixed, unspecified",Other Mental
+F3161,10,"Bipolar disorder, current episode mixed, mild",Other Mental
+F3162,10,"Bipolar disorder, current episode mixed, moderate",Other Mental
+F3163,10,"Bipolar disorder, current episode mixed, severe, without psychotic features",Other Mental
+F3164,10,"Bipolar disorder, current episode mixed, severe, with psychotic features",Other Mental
+F317,10,"Bipolar disorder, currently in remission",Other Mental
+F3170,10,"Bipolar disorder, currently in remission, most recent episode unspecified",Other Mental
+F3171,10,"Bipolar disorder, in partial remission, most recent episode hypomanic",Other Mental
+F3172,10,"Bipolar disorder, in full remission, most recent episode hypomanic",Other Mental
+F3173,10,"Bipolar disorder, in partial remission, most recent episode manic",Other Mental
+F3174,10,"Bipolar disorder, in full remission, most recent episode manic",Other Mental
+F3177,10,"Bipolar disorder, in partial remission, most recent episode mixed",Other Mental
+F3178,10,"Bipolar disorder, in full remission, most recent episode mixed",Other Mental
+F318,10,Other bipolar disorders,Other Mental
+F3181,10,Bipolar II disorder,Other Mental
+F3189,10,Other bipolar disorder,Other Mental
+F319,10,"Bipolar disorder, unspecified",Other Mental
+F40,10,Phobic anxiety disorders,Other Mental
+F408,10,Other phobic anxiety disorders,Other Mental
+F409,10,"Phobic anxiety disorder, unspecified",Other Mental
+F41,10,Other anxiety disorders,Other Mental
+F410,10,Panic disorder (episodic paroxysmal anxiety),Other Mental
+F411,10,Generalized anxiety disorder,Other Mental
+F413,10,Other mixed anxiety disorders,Other Mental
+F418,10,Other specified anxiety disorders,Other Mental
+F419,10,"Anxiety disorder, unspecified",Other Mental
+F4322,10,Adjustment disorder with anxiety,Other Mental
+F53,10,"Mental and behavioral disorders associated with the puerperium, not elsewhere classified",Other Mental
+F930,10,Separation anxiety disorder of childhood,Other Mental
+V110,9,Personal history of schizophrenia,Other Mental
+V400,9,Mental and behavioral problems with learning,Other Mental
+V401,9,Mental and behavioral problems with communication (including speech),Other Mental
+Z865,10,Personal history of mental and behavioral disorders,Other Mental
+Z8659,10,Personal history of other mental and behavioral disorders,Other Mental
